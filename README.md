@@ -49,7 +49,7 @@ Once the server is running, open `index.html` in a browser to use the blockchain
 
 ## 📂 Project Structure
 ```
-flask-blockchain/
+blockchain-viz/
 │── static/                # Contains CSS & JavaScript files
 │── templates/             # Contains HTML files
 │── app.py                 # Main Flask application
