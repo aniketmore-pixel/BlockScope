@@ -9,7 +9,7 @@ This is a simple **Blockchain-based web application** built using **Flask** (Pyt
 - **Reset the blockchain** to its initial state.
 
 ## 🔗 Live Demo
-[**Click here**](https://pow-visualization.vercel.app/)
+[**Click here**](https://blck-vis.vercel.app/)
 
 ---
 
