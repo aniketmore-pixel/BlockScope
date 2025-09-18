@@ -1,4 +1,4 @@
-# BlockScope: Blockchain Visualizer 📦🚀
+# BlockScope: Blockchain Visualizer
 
 This is a **Blockchain-based web application** built using **Flask** (Python backend) and **HTML, CSS, JavaScript** (frontend). It allows users to:
 
@@ -58,4 +58,5 @@ blockchain-viz/
 ```
 
 ---
+
 
